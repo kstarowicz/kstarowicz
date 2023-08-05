@@ -9,3 +9,4 @@ Skills:  REACT / JS / HTML / CSS/SCSS/ NODE.JS / MONGO.DB/ EXPRES.JS/ FETCH/ GUL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/kstarowicz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/karolina-starowicz-3694bb217/)  
 
+css3 html5 javascript react sass xd
