@@ -1,5 +1,4 @@
 ### Hi there 👋, Karolina
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am an enthusiastic Junior Frontend Developer looking for an entry-level position in the Company where I can use my skills in coding, problem solving and helping to deliver projects on time.
 
