@@ -1,6 +1,30 @@
 ### Hi there 👋, Karolina
 
-I am an enthusiastic Junior Frontend Developer looking for an entry-level position in the Company where I can use my skills in coding, problem solving and helping to deliver projects on time.
+Introduction
+I am a Fullstack Developer with skills in creating web applications using modern frontend and backend technologies. My projects focus on delivering innovative solutions that are both efficient and easy to use.
+
+Technical Skills
+Frontend:
+
+HTML, JavaScript, TypeScript
+React
+SASS
+Backend:
+
+Node.js
+MongoDB
+C#
+Others:
+
+Git
+REST API
+Agile/Scrum
+Recent Projects
+Work: Work - GitHub - An application for adding and updating job offers, enabling efficient recruitment management.
+OnlineShop: OnlineShop - GitHub - An e-commerce platform with an advanced product management system, shopping cart, and online payment integration.
+Mixer: Mixer - GitHub - An application for creating drinks and searching for recipes, featuring a rich database of recipes and an intuitive user interface.
+Goals and Aspirations
+I strive for continuous development as a Fullstack Developer, creating innovative and efficient solutions that bring real value to users. Currently, I am focusing on developing applications in TypeScript and advanced techniques in React and Node.js.
 
 📫 How to reach me: kastarowicz@gmail.com
 
